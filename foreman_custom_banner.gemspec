@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["cpisano86@gmail.com"]
   gem.description   = %q{Plugin for Foreman that adds a custom banner}
   gem.summary       = %q{Plugin for Foreman that adds a custom banner}
-  gem.homepage      = "https://github.com/discr33t/foreman_custom_banner"
+  gem.homepage      = "https://github.com/discreet/foreman_custom_banner"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
