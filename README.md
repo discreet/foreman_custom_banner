@@ -23,17 +23,17 @@ tab:
 
 With a default installation the custom banner would look like this:
 
-![default\_custom\_banner\_preview](foreman_custom_banner_default.png)
+![default\_custom\_banner\_preview](foreman_custom_banner_default_preview.png)
 
 If you only wanted to have a banner text simply remove the `custom_banner_url`
 and `custom_banner_url_text` values:
 
-![text\_custom\banner\_preview](foreman_custom_banner_text.png)
+![text\_custom\banner\_preview](foreman_custom_banner_text_preview.png)
 
 If you only wanted to have a banner url simply remove the `custom_banner_text`
 value:
 
-![url\_custom\_banner\_preview](foreman_custom_banner_url.png)
+![url\_custom\_banner\_preview](foreman_custom_banner_url_preview.png)
 
 You can alter the style of the custom banner by changing the values for the
 `custom_banner_style` field. This field will accept any CSS style configuration
