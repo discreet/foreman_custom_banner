@@ -10,7 +10,7 @@ class Setting::CustomBanner < ::Setting
         self.set('custom_banner_url_text', N_('Text to set URL on custom banner'),
           'Source code for this plugin'),
         self.set('custom_banner_url', N_('URL for custom banner text'),
-          'https://github.com/discreet/foreman_custom_banner'),
+          'https://github.com/jcmcken/foreman_custom_banner'),
         self.set('custom_banner_enabled', N_('Whether to enable the custom banner'), true),
         self.set('custom_banner_style', N_('CSS styling for the custom banner'),
           'text-align:center;background-color:green;color:white;font-weight:bold;'),
